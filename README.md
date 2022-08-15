@@ -5,6 +5,8 @@
 - Sem trabalho 💻 <BR>
 - Tenho 19 anos ✨
 </font> 
+
+## My Status
 <div>
 <a href="[https://github.com/IgorTeixeiraBR">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorTeixeiraBR&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,5 +15,5 @@
 
   
   
-##Snake  
+## Snake Animation 
 ![snake gif](https://github.com/IgorTeixeiraBR/IgorTeixeiraBR/blob/output/github-contribution-grid-snake.gif)
