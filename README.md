@@ -1,4 +1,4 @@
-## Olá, me chamo IgorTeixeira ! 
+## Olá, me chamo IgorTeixeiraBR ! 
 ### Bem vindo ao meu perfil GitHub 👋
 <Font size=1>
 - Curso feitos: Java, Html, Css e Python ⚙ <BR>
